@@ -1,7 +1,7 @@
 # Library Management System    
 A library management system written in C#. This application has a registration, login, user management, management of books, management of borrowing and returning of books and reporting.
 
-This is a simple library management system is written and made in C# during my bachelor course in 2018.
+This is a simple library management system is written and made in C# 
 
 #### Github  [Library Management System](https://github.com/ashutpandey/Library-Management-System)
 ## Built With
